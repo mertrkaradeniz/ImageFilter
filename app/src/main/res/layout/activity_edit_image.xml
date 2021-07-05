@@ -54,9 +54,6 @@
                 android:visibility="gone"/>
 
         </FrameLayout>
-
-
-
     </LinearLayout>
 
     <androidx.appcompat.widget.AppCompatImageView

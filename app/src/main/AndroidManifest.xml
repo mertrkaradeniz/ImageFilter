@@ -12,7 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ImageFilter"
         tools:ignore="AllowBackup">
-        <activity android:name=".ui.filteredimage.FilteredImageActivity"></activity>
+        <activity android:name=".ui.savedimages.SavedImagesActivity"></activity>
+        <activity android:name=".ui.filteredimage.FilteredImageActivity" />
         <activity android:name=".ui.editimage.EditImageActivity" />
         <activity
             android:name=".ui.main.MainActivity"

@@ -37,5 +37,8 @@ class FilteredImageActivity : AppCompatActivity() {
                 startActivity(this)
             }
         }
+        binding.imgBack.setOnClickListener {
+            onBackPressed()
+        }
     }
 }
