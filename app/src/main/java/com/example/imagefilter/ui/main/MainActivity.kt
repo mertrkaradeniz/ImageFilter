@@ -1,10 +1,11 @@
-package com.example.imagefilter
+package com.example.imagefilter.ui.main
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.MediaStore
 import com.example.imagefilter.databinding.ActivityMainBinding
+import com.example.imagefilter.ui.editimage.EditImageActivity
 
 class MainActivity : AppCompatActivity() {
 
